@@ -17,7 +17,6 @@
 #define FUN 3
 #define UTIL 4
 
-#include "combos.dtsi"
 
 // navigation bindings for back/forward and prev tab/next tab
 #define BACK &kp LG(LBKT)
